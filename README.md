@@ -1,4 +1,4 @@
-# realtime_bus_animation
+# real time bus animation
 
 ## Description
 The project shows the different buses locations in the route #1 of boston that runs between Harvard and Nubian, all this is deployed in a map with the help of an API and markers, the map is updated every 20 seconds, with different color of buses(represented by an icon image) according to their direction.
